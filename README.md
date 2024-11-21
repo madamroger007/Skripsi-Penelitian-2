@@ -1,1 +1,3 @@
-# Skripsi-Penelitian-2
+# PENELITIAN 2
+## PENELITIAN UNTUK MEMENUHI PERSYARATAN KELULUSAN S1
+   disusun oleh : adam setiadi
